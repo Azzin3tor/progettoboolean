@@ -1,0 +1,73 @@
+body{
+    background-image: url(MaterialeEsercizioLim/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenitore{
+    background-color:rgba(0, 0, 0, 0.575);
+    width: 1000px;
+    height: 700px;
+    border-radius: 2.5%;
+    margin: auto;
+    padding: 70px 50px;
+    margin-top: 30px;
+}
+
+header{
+    color: rgb(90, 180, 0);
+    text-align: center;
+}
+
+.logo{
+   width: 20%; 
+}
+
+.logo-text{
+    box-sizing: content-box;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+nav{
+    background-color: rgb(90, 180, 0);
+    text-align: center;
+    height: 3%;
+    padding: 10px;
+}
+
+main{
+    text-align: left;
+    font-size: 100%;
+    color: white;
+    padding-top: 20px;
+}
+
+section{
+    width: auto;
+    height: 140px;
+}
+
+h2{
+    display: inline-block;
+    margin: 2px;
+    padding: 0;
+}
+
+.statocaricagrafica, .statocaricagrafica-2, .statocaricagrafica-3{
+    height: 20%;
+    border-radius: 4px;
+    margin: 2px;
+}
+.statocaricagrafica{
+    background-color: rgb(223, 166, 61);
+    width: 35%;
+}
+.statocaricagrafica-2{
+    background-color: rgb(50, 184, 9);
+    width: 70%;
+}
+.statocaricagrafica-3{
+    background-color: rgb(156, 33, 33);
+    width: 20%;
+}
